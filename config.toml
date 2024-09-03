@@ -9,7 +9,7 @@ pygmentscodefencesguesssyntax = true
 [params]
 mode = "auto"
 useCDN = false
-subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+subtitle = ""
 customcss = ["css/first.css"]
 #[[params.social]]
 #name = "GitHub"
