@@ -10,7 +10,7 @@ pygmentscodefencesguesssyntax = true
 mode = "auto"
 useCDN = false
 subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
-#customcss = ["css/override.css"]
+customcss = ["css/first.css"]
 #[[params.social]]
 #name = "GitHub"
 #icon = "github"
