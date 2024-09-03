@@ -1,7 +1,7 @@
 :root {
-    --maincolor: green;
+    --maincolor: rgb(0, 30, 250);
     --bordercl: rebeccapurple;
     --callouctcolor: dodgerblue;
-    --hovercolor: navy;
+    --hovercolor: rgb(0, 30, 250);
     --darkMaincolor: #50fa7b;
 }

@@ -5,6 +5,6 @@ weight: 2
 ---
 ## How to contact me
 
-I live in Stockholm, Sweden.
+Reach me at
 
-morgan@ekme.se
+morgan @ ekme.se
