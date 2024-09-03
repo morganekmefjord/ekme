@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://ekme.se"
 languageCode = "en-us"
 title = "Morgan Ekmefjord"
 theme = "archie"
@@ -10,21 +10,21 @@ pygmentscodefencesguesssyntax = true
 mode = "auto"
 useCDN = false
 subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
-customcss = ["css/override.css"]
-[[params.social]]
-name = "GitHub"
-icon = "github"
-url = "https://github.com/athul/archie"
+#customcss = ["css/override.css"]
+#[[params.social]]
+#name = "GitHub"
+#icon = "github"
+#url = "https://github.com/athul/archie"
 
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/athulcajay/"
+#[[params.social]]
+#name = "Twitter"
+#icon = "twitter"
+#url = "https://twitter.com/athulcajay/"
 
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
+#[[params.social]]
+#name = "GitLab"
+#icon = "gitlab"
+#url = "https://gitlab.com/athul/"
 
 [[menu.main]]
 name = "Home"
